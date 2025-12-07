@@ -14,7 +14,7 @@ This Business Intelligence project moves beyond "Vanity Metrics" (Sales) to focu
 
 [![Dashboard Screenshot](dashboard_screenshot.png)](https://public.tableau.com/app/profile/praveen.kumar.kodavath/viz/GlobalProfitabilityAnalysis_17651382177100/Dashboard1?publish=yes)
 
-> **[🔴 CLICK HERE TO INTERACT WITH THE LIVE DASHBOARD](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
+> **[🔴 CLICK HERE TO INTERACT WITH THE LIVE DASHBOARD](https://public.tableau.com/app/profile/praveen.kumar.kodavath/viz/GlobalProfitabilityAnalysis_17651382177100/Dashboard1?publish=yes)**
 
 ---
 
